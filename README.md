@@ -64,6 +64,7 @@ Stable Diffusion XL 모델 'stabilityai/stable-diffusion-xl-base-1.0' 로딩 중
 시드 42 사용.
 100%|█████████████████████████████████████████| 70/70 [00:15<00:00,  4.50it/s]
 이미지가 저장되었습니다: ./generated_images/cyberpunk_city.png
+```
 
 ## ⚙️ Configuration
 
