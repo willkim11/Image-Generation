@@ -81,5 +81,3 @@ Feel free to submit issues or pull requests if you have suggestions for improvem
 
 This project uses the Stable Diffusion XL 1.0 model by Stability AI. Please refer to the [Stable Diffusion XL License](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) for usage terms.
 
-### 💡 팁:
-위 내용 중 `YOUR_USERNAME`과 `YOUR_REPOSITORY_NAME` 부분만 본인의 깃허브 주소에 맞게 수정해주시면 완벽합니다.
